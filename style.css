@@ -3,6 +3,9 @@
     --max-width: 1104px;
     --side-gap: 0 24px;
 }
+ div {
+    color: #000;
+ }
 
 * {
     box-sizing: border-box;
